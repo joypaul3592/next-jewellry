@@ -1,0 +1,308 @@
+[
+    {
+        "id": 1,
+        "title": "Clipping Path Service ",
+        "slug": "clipping-path-service",
+        "description": "Indulge in pure relaxation at our spa retreat.",
+        "prices": [
+            {
+                "old_price": "100",
+                "new_price": "80"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Spa",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Aurora Grace",
+                "image": "client_image_url_1",
+                "description": "An oasis of serenity!",
+                "star": "5"
+            },
+            {
+                "name": "Luna Belle",
+                "image": "client_image_url_2",
+                "description": "Absolutely stunning.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Enchanted Garden Dining",
+        "slug": "enchanted-garden-dining",
+        "description": "Experience a magical meal in our garden restaurant.",
+        "prices": [
+            {
+                "old_price": "75",
+                "new_price": "65"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Restaurant",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Elysia Rose",
+                "image": "client_image_url_3",
+                "description": "A culinary dream come true!",
+                "star": "5"
+            },
+            {
+                "name": "Zephyr Dusk",
+                "image": "client_image_url_4",
+                "description": "Exquisite in every way.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Serenity Spa Haven",
+        "slug": "serenity-spa-haven",
+        "description": "Find inner peace and relaxation at our spa haven.",
+        "prices": [
+            {
+                "old_price": "110",
+                "new_price": "90"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Spa",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Aria Starlight",
+                "image": "client_image_url_5",
+                "description": "A sanctuary of tranquility!",
+                "star": "5"
+            },
+            {
+                "name": "Solstice Bliss",
+                "image": "client_image_url_6",
+                "description": "Pure serenity for the soul.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Golden Sunset Dining",
+        "slug": "golden-sunset-dining",
+        "description": "Watch the sun set as you savor a delightful meal.",
+        "prices": [
+            {
+                "old_price": "90",
+                "new_price": "75"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Restaurant",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Celeste Dawn",
+                "image": "client_image_url_7",
+                "description": "A dining experience like no other!",
+                "star": "5"
+            },
+            {
+                "name": "Harmony Dusk",
+                "image": "client_image_url_8",
+                "description": "Exquisite flavors under the setting sun.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Majestic Mountain Trek",
+        "slug": "majestic-mountain-trek",
+        "description": "Embark on an awe-inspiring journey through the mountains.",
+        "prices": [
+            {
+                "old_price": "120",
+                "new_price": "95"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Adventure",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Aurora Peaks",
+                "image": "client_image_url_9",
+                "description": "Breath-taking vistas at every step!",
+                "star": "5"
+            },
+            {
+                "name": "Kai Summit",
+                "image": "client_image_url_10",
+                "description": "A journey to remember.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Garden of Tranquility",
+        "slug": "garden-of-tranquility",
+        "description": "Discover inner peace within the lush gardens.",
+        "prices": [
+            {
+                "old_price": "95",
+                "new_price": "80"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Gardens",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Lily Serene",
+                "image": "client_image_url_11",
+                "description": "A garden of calm and beauty!",
+                "star": "5"
+            },
+            {
+                "name": "Oliver Verdant",
+                "image": "client_image_url_12",
+                "description": "Tranquility like no other.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Azure Ocean Getaway",
+        "slug": "azure-ocean-getaway",
+        "description": "Escape to the crystal-clear waters of paradise.",
+        "prices": [
+            {
+                "old_price": "150",
+                "new_price": "120"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Beaches",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Marina Waves",
+                "image": "client_image_url_13",
+                "description": "Paradise found!",
+                "star": "5"
+            },
+            {
+                "name": "Sebastian Sands",
+                "image": "client_image_url_14",
+                "description": "Crystal waters and golden sands.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Mystical Forest Retreat",
+        "slug": "mystical-forest-retreat",
+        "description": "Immerse yourself in the enchanting depths of the forest.",
+        "prices": [
+            {
+                "old_price": "110",
+                "new_price": "90"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Nature",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Elara Moonshadow",
+                "image": "client_image_url_15",
+                "description": "A magical forest escape!",
+                "star": "5"
+            },
+            {
+                "name": "Sylvan Whisper",
+                "image": "client_image_url_16",
+                "description": "In harmony with nature.",
+                "star": "4"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Moonlit Serenade Cruise",
+        "slug": "moonlit-serenade-cruise",
+        "description": "Sail under the moonlight in this romantic cruise.",
+        "prices": [
+            {
+                "old_price": "120",
+                "new_price": "100"
+            }
+        ],
+        "images": [
+            {
+                "beforeImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-before_zl4TUQP1z.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970282566",
+                "afterImg": "https://ik.imagekit.io/clippingpathexperts/background-removal/background-removal-services-10-after_iRsX4KiGE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1643970284547"
+            }
+        ],
+        "category": "Cruises",
+        "status": "Active",
+        "client_feedback": [
+            {
+                "name": "Astrid Nightsea",
+                "image": "client_image_url_17",
+                "description": "Romance on the high seas!",
+                "star": "5"
+            },
+            {
+                "name": "Adrian Starlight",
+                "image": "client_image_url_18",
+                "description": "An enchanting evening.",
+                "star": "4"
+            }
+        ]
+    }
+]

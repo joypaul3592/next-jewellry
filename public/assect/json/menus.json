@@ -1,0 +1,36 @@
+[
+  {
+    "label": "Home",
+    "link": "/"
+  },
+  {
+    "label": "Services",
+    "link": "/services",
+    "submenu": [
+      {
+        "label": "Clipping Path",
+        "link": "/clippingPath"
+      },
+      {
+        "label": "Image Masking",
+        "link": "/imageMasking"
+      }
+    ]
+  },
+  {
+    "label": "Pricing",
+    "link": "/pricing"
+  },
+  {
+    "label": "Contact",
+    "link": "/contact"
+  },
+  {
+    "label": "Blog",
+    "link": "/blog"
+  },
+  {
+    "label": "About",
+    "link": "/about"
+  }
+]

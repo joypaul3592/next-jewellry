@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Digital Payment will be Top Payment In Next 10 Years",
+    "image": "blog1.jpg",
+    "date": "14 Feb",
+    "category": "Technology",
+    "description": "Lorem ipsum dolor sit amet, consectetur adisquat adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim ."
+  },
+  {
+    "id": "2",
+    "title": "Digital Payment will be Top Payment In Next 10 Years",
+    "image": "blog2.jpg",
+    "date": "14 Jun, 2023",
+    "category": "Technology",
+    "description": "Lorem ipsum dolor sit amet, consectetur adisquat adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim ."
+  },
+  {
+    "id": "3",
+    "title": "Digital Payment will be Top Payment In Next 10 Years",
+    "image": "blog3.jpg",
+    "date": "14 Oct, 2023",
+    "category": "Technology",
+    "description": "Lorem ipsum dolor sit amet, consectetur adisquat adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim ."
+  },
+  {
+    "id": "4",
+    "title": "Digital Payment will be Top Payment In Next 10 Years",
+    "image": "blog4.jpg",
+    "date": "14 Apr, 2023",
+    "category": "Technology",
+    "description": "Lorem ipsum dolor sit amet, consectetur adisquat adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim ."
+  },
+  {
+    "id": "5",
+    "title": "Digital Payment will be Top Payment In Next 10 Years",
+    "image": "blog5.jpg",
+    "date": "14 Jun, 2023",
+    "category": "Technology",
+    "description": "Lorem ipsum dolor sit amet, consectetur adisquat adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim ."
+  },
+  {
+    "id": "6",
+    "title": "Digital Payment will be Top Payment In Next 10 Years",
+    "image": "blog6.webp",
+    "date": "14 Mar, 2023",
+    "category": "Technology",
+    "description": "Lorem ipsum dolor sit amet, consectetur adisquat adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim ."
+  }
+]
